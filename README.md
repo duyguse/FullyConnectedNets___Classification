@@ -1,1 +1,1 @@
-# FullyConnectedNets___Classification
+# Fully Connected Networks Classification
